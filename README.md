@@ -21,6 +21,7 @@ Exploratory Data Analysis(EDA) is used to understand how consumer attributes and
     5. Correlation Matrix
 
 ## Conclusions
+<pre>
 We can conclude from the analysis performed that below variables are the driving factors of default:
     1. Higher Interest Rates
     2. Low grades like F & G
@@ -35,7 +36,7 @@ Other observations:
     2. 60 months term has higher Charged off percentage
     3. Not verified applications have slightly higher default rate compared to verified and source verified.
     4. 10+ years of employment length has most default rate followed by 7 years and 1 years.
-
+</pre>
 ## Technologies Used
 - numpy - version 1.20.1
 - pandas - version 1.2.4
